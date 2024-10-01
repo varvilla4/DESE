@@ -1,4 +1,6 @@
-# Problem Overview
+# DESE
+
+## Problem Overview
 This project tackles various data analysis tasks to help the Department of Elementary and Secondary Education (DESE) in Massachusetts evaluate and improve the state's public education system. As a data analyst, you will use SQL queries to extract insights from the DESE database (dese.db). The primary goal is to ensure that DESE can make informed decisions regarding the quality of education in Massachusetts, focusing on areas such as resource allocation, district performance, graduation rates, and teacher evaluations.
 
 ## Database Description
